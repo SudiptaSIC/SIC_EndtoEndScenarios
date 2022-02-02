@@ -1,0 +1,20 @@
+"[Container Name]","STD"
+"[Test Name]","CommonReusables_STD_LTD"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","N"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","ReUsable Objects","CommonReusable_STD_LTD_R2","NA","NA","Y","2","3"
+,"2","Reusable Objects","GPAttributesetup_STDLTD","NA","NA","N","3","3"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","DataRowNumber","DataVariable","RatingStructure"
+,"ANY","Chrome","001","Y",,,,"","",""

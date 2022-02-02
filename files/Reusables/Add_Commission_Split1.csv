@@ -1,0 +1,21 @@
+"[Container Name]","Reusables"
+"[Test Name]","Add_Commission_Split1"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","N"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","Demographic_MultiplePayrollCycle","NA","NA","N","2","4"
+,"2","Reusable Objects","AddCPPlanSetUp","NA","NA","N","3","4"
+,"3","Reusable Objects","Add_Commission_Split1_reusables","NA","NA","Y","4","4"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","DataRowNumber","DataVariable"
+,"ANY","Chrome","001","Y",,,,"",""

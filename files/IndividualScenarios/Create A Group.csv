@@ -1,0 +1,21 @@
+"[Container Name]","IndividualScenarios"
+"[Test Name]","Create A Group"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","UAT_LOGIN_DK","NA","NA","Y","2","4"
+,"2","Generic","Browser","Sleep","8","Y","3","4"
+,"3","Reusable Objects","CreateAGroup_R2","NA","NA","Y","4","4"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","ControlNumber","DataRowNumber","DataVariable","GroupName","MasterControlNumber","URL"
+,"ANY","Chrome","001","Y",,,,"51169","2","10006","HitachiGroup Pvt Ltd","242541","https://prucoreuat.v3locity.com/"

@@ -1,0 +1,21 @@
+"[Container Name]","GISCASEXMLDataCreation_DK"
+"[Test Name]","TC(3,37,71,105,139,173,206)"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","UAT_LOGIN_DK","NA","NA","Y","2","4"
+,"2","Reusable Objects","SearchingGroupUpdated_DK","NA","NA","Y","3","4"
+,"3","Reusable Objects","EditAddressReusabl-AfterActivetheGroup_DK","NA","NA","Y","4","4"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","ControlNumber","DataRowNumber","DataVariable","GroupName"
+,"ANY","Chrome","001","Y",,,,"Near to Park view","2","10006",""

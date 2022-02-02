@@ -1,0 +1,20 @@
+"[Container Name]","SIC_Entity_Creation"
+"[Test Name]","Searching_Dependent"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","Y"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","SIC_V3_Login","NA","NA","Y","2","3"
+,"2","Reusable Objects","SearchingDependent","NA","NA","Y","3","3"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","DependentName","DependentSSN","Global_Homepage","Global_Password","Global_Username","V3_Homepage","V3_Password","V3_Username"
+,"ANY","Chrome","001","Y",,,,"Martijn, Dieter Kumar II","852249955","https://partners.v3locitydev.com/global-protect/login.esp","Qwerty@1234","SSAHOO","V3locity","sic@123","ssahoo"

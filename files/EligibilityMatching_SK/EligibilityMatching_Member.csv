@@ -1,0 +1,19 @@
+"[Container Name]","EligibilityMatching_SK"
+"[Test Name]","EligibilityMatching_Member"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","EligibilityMatching_Member","NA","NA","Y","2","2"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","Age","ClassName","Classes","DataRowNumber","DataVariable","DateOfBirth","Division","EligibilityAttribute","EligibilityAttribute01","EligibilityAttribute02","EligibilityMatching03","EmpState","Emp_State","EmployeeId","EmployeeType","EmploymentForm","Employmentstatus","FirstName","Gender","GroupName","HireDate","JobTitle","LastName","LengthOfservice","Location","MaritalStatus","Prefix","RetirementStartDate","SSN","SalaryAmount","SalaryEffectiveDate","SalaryType","ScheduleHours"
+,"ANY","Chrome","001","Y",,,,"70","Class01","Class01","2","https://prucoreuat.v3locity.com/","10/11/1994","Term","","Test01","TestA","TestB","ALABAMA","","38289","Retired","Full-Time","Regular Full-time Employee","Karen","Male","SK Auto 04","01/01/2020","Testing","Kelvin","2","Cali","Married","Mr.","01/01/2020","721925453","5000","","Hourly","2"

@@ -1,0 +1,20 @@
+"[Container Name]","MemberAddressttt"
+"[Test Name]","addd"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","Memberaddress","NA","NA","Y","2","3"
+,"2","Reusable Objects","MemberContactInformation","NA","NA","Y","3","3"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","Data1","Data10","Data11","Data12","Data13","Data2","Data3","Data4","Data5","Data6","Data7","Data8","Data9","DataRowNumber"
+,"ANY","Chrome","001","Y",,,,"TP Link Pvt Ltd","786 Axis","Street13","Near to wall park view","10006","Solutions","891838906","Single Employer","AlfaTech21","6512","Premier","West","ALABAMA","2"

@@ -1,0 +1,23 @@
+"[Container Name]","GISCASEXMLDataCreation_DK"
+"[Test Name]","MemberSEARCH"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","Y"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","UAT_LOGIN_DK","NA","NA","Y","2","6"
+,"2","Reusable Objects","SearchingMemberUSingSSN","NA","NA","Y","3","6"
+,"3","V3locity","autosuggestionname","IFEXIST","Execute","Y","4","5"
+,"4","V3locity","autosuggestionname","Click","Execute","Y","5","6"
+,"5","Generic","Browser","setPass","Member is searched successfully","Y","6","6"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","DataRowNumber","DataVariable","SSN"
+,"ANY","Chrome","001","Y",,,,"2","https://prucoreuat.v3locity.com/app","11/11/1988"

@@ -1,0 +1,23 @@
+"[Container Name]","MemberAddress"
+"[Test Name]","termP"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","N"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","CoverageDetailTable_Validation","NA","NA","Y","2","6"
+,"2","Reusable Objects","Emo-CoverageTermination","NA","NA","Y","3","6"
+,"3","Reusable Objects","DeDemographicAddressswithmandatoryInput","NA","NA","Y","4","6"
+,"4","Reusable Objects","CoveragePremiumTable-Validation","NA","NA","Y","5","6"
+,"5","Reusable Objects","MemberAddresswithCondition_DK","NA","NA","Y","6","6"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","Address1","DataRowNumber","DataVariable","DemograpicZipCode","ExpBasicBenefitAmt","ExpChildDeptBenefitAmt","ExpOptChildBenefitAmt","ExpOptLifeBenefitAmt","ExpOptSpouseBenefitAmt","ExpSpouseDeptBenefitAmt","Gender","MaritalStatus","MemberAddressCountryName","MemberPostalCode","MemberProvince","MemberaddressCity","NewEmploymentStatus","Prefix","TermReason"
+,"ANY","Chrome","001","Y",,,,"","","","","","","","","","","","","","","","","","",""

@@ -1,0 +1,20 @@
+"[Container Name]","Reusables"
+"[Test Name]","Absencemanagement_plansetup"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","N"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","N"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","AM_rates_reusables","NA","NA","N","2","3"
+,"2","Reusable Objects","LinkedPolicies_CpProduct","NA","NA","N","3","3"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","DataVariable"
+,"ANY","Chrome","001","Y",,,,""
